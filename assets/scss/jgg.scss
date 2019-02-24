@@ -9,9 +9,7 @@ html {
   font-family: $font__body;
   color: #1F2426;
   font-weight: $weight__book;
-  background-color: #EEE7DF;
-  background-image: url(../img/griffith_jg-mobile.jpg);
-  background-repeat: no-repeat;
+  background: #EEE7DF url(../img/griffith_jg-mobile.jpg);
   background-size: cover;
   background-position: center center;
   position: fixed;
