@@ -11,9 +11,7 @@ html {
   font-family: $font__body;
   color: #1F2426;
   font-weight: $weight__book;
-  background: #EEE7DF url(../img/griffith_jg-mobile.jpg);
-  background-size: cover;
-  background-position: top center;
+  background: #eee7df;
   position: fixed;
   top: 0;
   height: 100vh;
@@ -30,10 +28,6 @@ html {
   @media (min-width: 1024px) {
     position: static;
     font-size: 112.5%;
-  }
-
-  @media (min-width: 1366px) {
-    background-image: url(../img/griffith_jg.jpg);
   }
 }
 
