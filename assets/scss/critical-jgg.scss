@@ -138,11 +138,16 @@ h1 {
     font-weight: 700;
     display: inline;
     font-size: 1em;
-    letter-spacing: .025em
-}
+    letter-spacing: .025em;
 
-#main-stage li a {
-    padding-right: .75em;
-    text-decoration: none;
-    color: #3c3c3e
+    a {
+        padding-right: .75em;
+        text-decoration: none;
+        color: #3c3c3e
+    }
+
+    svg {
+        height: 18px;
+        width: auto;
+    }
 }
