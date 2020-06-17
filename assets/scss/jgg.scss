@@ -7,7 +7,7 @@ $weight__bold: 700;
 
 html {
   box-sizing: border-box;
-  font-size: 63.25%;
+  font-size: 63.45%;
   font-family: $font__body;
   color: #1F2426;
   font-weight: $weight__book;
@@ -94,8 +94,6 @@ h1 {
   }
 
   li {
-    text-transform: uppercase;
-    font-weight: $weight__bold;
     display: inline;
 
     &:first-of-type {
