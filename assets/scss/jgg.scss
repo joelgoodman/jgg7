@@ -7,7 +7,7 @@ $weight__bold: 700;
 
 html {
   box-sizing: border-box;
-  font-size: 63.45%;
+  font-size: 63.25%;
   font-family: $font__body;
   color: #1F2426;
   font-weight: $weight__book;
@@ -86,7 +86,7 @@ h1 {
   p {
     margin: 1.9em 0;
     line-height: 1.55;
-    font-size: 1.18em;
+    font-size: 1.3em;
 
     @media (min-width: 1024px) {
       font-size: 1em;
